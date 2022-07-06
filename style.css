@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Josefin+Sans:wght@500&family=Kanit&family=Merriweather+Sans&family=Montserrat&family=Poppins&family=Potta+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Josefin+Sans:wght@500&family=Kanit&family=Merriweather+Sans&family=Montserrat&family=Poppins&family=Potta+One&family=Secular+One&display=swap');
 
 body, html {
   height: 100%;
@@ -16,7 +16,7 @@ body, html {
 }
 
 .hero-text {
-  font-family: 'Secular One', sans-serif;
+  font-family: '  ', sans-serif;
   text-align: center;
   position: absolute;
   top: 50%;
