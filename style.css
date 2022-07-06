@@ -215,7 +215,7 @@ button{
 
 .subscribe {
   margin-top: 5%;
-  background-color: rgba(236, 193, 141, 0.171);
+  background-color: rgba(189, 149, 100, 0.062);
   padding: 10% 20%;
   border: none;
   border-radius: 3px;
@@ -225,7 +225,7 @@ button{
 .form-email {
   font-family: 'Poppins', sans-serif;
   font-size: 14px;
-  background-color: rgba(197, 190, 190, 0.5);
+  background-color: rgba(184, 178, 178, 0.384);
   border: none;
   border-radius: 5px 0 0 5px;
   padding: 21px 50px;
